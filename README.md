@@ -1,7 +1,7 @@
 # LB2_Project
 Use different approaches to implement classifiers for the secretory signal peptide.
 
-##Prediction of the presence of Secretory Signal Peptides in proteins: comparison between three methods
+## Prediction of the presence of Secretory Signal Peptides in proteins: comparison between three methods
 
 **Abstract**
 Predicting secretory signal peptides (SPs) is essential for understanding protein function and subcellular localization, with significant implications in biology and medicine. 
